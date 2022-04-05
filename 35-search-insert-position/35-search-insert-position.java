@@ -27,7 +27,7 @@ class Solution {
            
         }
         
-        //Return low (in which position target needed to be insertted)
+        //Return low (in which position target needed to be inserted)
         return low;
     }
 }
